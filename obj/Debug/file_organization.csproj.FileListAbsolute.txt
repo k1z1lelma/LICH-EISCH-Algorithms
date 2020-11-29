@@ -1,0 +1,9 @@
+C:\Users\FURKAN\source\repos\CENG307_C171130019_HW1\obj\Debug\file_organization.csprojAssemblyReference.cache
+C:\Users\FURKAN\source\repos\CENG307_C171130019_HW1\obj\Debug\file_organization.csproj.GenerateResource.cache
+C:\Users\FURKAN\source\repos\CENG307_C171130019_HW1\obj\Debug\file_organization.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\CENG307_C171130019_HW1\obj\Debug\file_organization.Properties.Resources.resources
+C:\Users\FURKAN\source\repos\CENG307_C171130019_HW1\bin\Debug\file_organization.exe
+C:\Users\FURKAN\source\repos\CENG307_C171130019_HW1\bin\Debug\file_organization.pdb
+C:\Users\FURKAN\source\repos\CENG307_C171130019_HW1\obj\Debug\file_organization.exe
+C:\Users\FURKAN\source\repos\CENG307_C171130019_HW1\obj\Debug\file_organization.pdb
+C:\Users\FURKAN\source\repos\CENG307_C171130019_HW1\obj\Debug\file_organization.eisch_lich_algorithms.resources
